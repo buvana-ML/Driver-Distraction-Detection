@@ -63,16 +63,17 @@ http://localhost:8501
 
 ### Home Interface
 
-![Home](images/homescreen.png)
+![Home](images/Homescreen.png)
 
 ### Example Prediction
 
-![Prediction](images/prediction_phone.png)
-![Prediction](images/prediction_drinking.png)
+![Prediction](images/Prediction_phone.png)
+
+![Prediction](images/Prediction_drinking.png)
 
 ### Safe Driving Prediction
 
-![Safe Driving](images/prediction_safe.png)
+![Safe Driving](images/Prediction_safe.png)
 
 ---
 
