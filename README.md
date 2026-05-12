@@ -103,4 +103,3 @@ This project uses the State Farm Distracted Driver Detection dataset available o
 ## Author
 
 Buvana Sri Namachivayam
-````
